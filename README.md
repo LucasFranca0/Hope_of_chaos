@@ -18,7 +18,7 @@ Este é um projeto elaborado para a atividade **Livro Jogo** - proposta por *Gab
 - No minimo 20 capítulos, onde cada interação é um capitulo
 - Utilizar Javascript, criar um botão para alternar entre o modo "noturno", "claro" ou alto contraste.
 
-| Ultilizamos para o projeto |   |
+| Utilizamos para o projeto |   |
 | ------------- |------------- |
 | Linguagens   |Html , CSS e JavaScript |
 | Programas | Asseprite, Photoshop, PhotoScape  |
